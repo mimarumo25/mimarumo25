@@ -1,17 +1,40 @@
-Automatizador de Pruebas | Desarrollador Front-End | React.js | Redux| HTML5 | CSS3 | JS | Bootstrap| Styled Components| Git | GitHub | PHP | Express | Java | C# | QA|Scrum Fundamentals|Pom|ScreenPlay
+
 ### Hi there 👋
+<div align='center'>
+  <h1> Miguel Mariano Rubide Mosquera 💻💻</h1>
+  <b>⚙Ingeniero Teleinformático con experiencia en Automatización de Pruebas🧾 y Desarrollo Front-End 💻💻</b>
+</div>
 
-<!--
-**mimarumo25/mimarumo25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 💻🔧 Herramientas De Automatización De Prueba ⚙️🤖
+<ul>
+  <li>Screemplay</li>
+  <li>Page Object Model Lean</li>
+  <li>Selenium</li>
+  <li>Java</li>
+  <li>WebDriver</li>
+  <li>Gherkin</li>
+  <li>Cucumber</li>
+  <li>SerenityBDD</li>
+  <li>REST Assured</li>
+  <li>Cypress</li>
+  <li>Postman</li>
+  <li>Bases de datos SQL</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻🌐 Herramientas De desarrollo Web (Front-End) 🖥️🎨
+<ul>
+  <li>JavaScript (ES6+)</li>
+  <li>CSS</li>
+  <li>Grid</li>
+  <li>SCSS</li>
+  <li>Flexbox</li>
+  <li>HTML</li>
+  <li>Bootstrap</li>
+  <li>Git</li>
+  <li>Github</li>
+  <li>React</li>
+  <li>Redux</li>
+  <li>SQL</li>
+</ul>
+
