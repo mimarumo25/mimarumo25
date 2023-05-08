@@ -1,3 +1,4 @@
+Automatizador de Pruebas | Desarrollador Front-End | React.js | Redux| HTML5 | CSS3 | JS | Bootstrap| Styled Components| Git | GitHub | PHP | Express | Java | C# | QA|Scrum Fundamentals|Pom|ScreenPlay
 ### Hi there 👋
 
 <!--
