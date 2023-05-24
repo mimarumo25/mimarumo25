@@ -38,3 +38,4 @@
   <li>SQL</li>
 </ul>
 
+<img src="https://github-readme-stats.vercel.app/api?username=mimarumo25&show_icons=true&theme=dracula&hide=stars,issues" alt="mimarumo25" />
